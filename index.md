@@ -6,9 +6,17 @@
 
 ---
 <h3 align="center"><a href="/FrogZen_ProjectPage">FrogZen</a></h3>
-[<img src="images/frogzen_frog_personification.png" alt="TestImageLink" height="500" align="center">](/FrogZen_ProjectPage)
+
+
+<div style="text-align:center;">
+  <a href="/FrogZen_ProjectPage">
+    <img src="images/FrogZen_Logo.png" alt="FrogZen_Screenshot" style="height:500;">
+  </a>
+</div>
 
 ---
+[<img src="images/frogzen_frog_personification.png" alt="TestImageLink" height="500" align="center">](/FrogZen_ProjectPage)
+
 <h3 align="center"><a href="/LumbarLagoon_ProjectPage">LumbarLagoon</a></h3>
 [<img src="images/lumbar_lagoon_water_collection.png" alt="LumbarLagoon" width="600" align="center">](/LumbarLagoon_ProjectPage)
 
@@ -19,6 +27,7 @@
 ---
 <h3 align="center"><a href="/NavalWarfare_ProjectPage">Naval W-AR-fare</a></h3>
 <img src="images/NavalWarfare_screenshot.png?raw=true" width="500" align="center">
+[<img src="images/WaW_Thumbnail.png" alt="TestImageLink" height="500" align="center">](/WAW_ProjectPage)
 
 ---
 
