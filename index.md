@@ -1,4 +1,4 @@
-## Portfolio
+<h1> Portfolio </h1>
 
 ---
 
@@ -24,7 +24,7 @@
 <img src="images/NavalWarfare_screenshot.png?raw=true" width="500">
 
 ---
-[B.A.R.K and P.I.S.S](/BNP_ProjectPage)
+<h1 align="center">[B.A.R.K and P.I.S.S](/BNP_ProjectPage)</h1>
 <img src="images/BARK_and_PISS_heading_slide.png?raw=true" width="600">
 
 ---
