@@ -7,13 +7,11 @@
 
 
 [FrogZen](/FrogZen_ProjectPage)
-
-
 [<img src="images/FrogZen_Logo.png" alt="TestImageLink" width="500">](/FrogZen_ProjectPage)
 
 ---
 [LumbarLagoon](/LumbarLagoon_ProjectPage)
-<img src="images/lumbar_lagoon_water_collection.png?raw=true" width="600">
+[<img src="images/lumbar_lagoon_water_collection.png" alt="LumbarLagoon" width="600">](/LumbarLagoon_ProjectPage)
 
 ---
 [Wizzards At Wollmort](/WAW_ProjectPage)
@@ -30,6 +28,7 @@
 ---
 
 <h1 align="center"> Title </h1>
+<img src="images/lumbar_lagoon_water_collection.png?raw=true" width="600">
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 ### Category Name 2
