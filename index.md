@@ -12,19 +12,19 @@
 
 ---
 [LumbarLagoon](/LumbarLagoon_ProjectPage)
-<img src="images/lumbar_lagoon_water_collection.png?raw=true" width="200" height="100">
+<img src="images/lumbar_lagoon_water_collection.png?raw=true" width="500">
 
 ---
 [Wizzards At Wollmort](/WAW_ProjectPage)
-<img src="images/WAW_Thumbnail.png?raw=true"/>
+<img src="images/WAW_Thumbnail.png?raw=true" width="500">
 
 ---
 [Naval W-AR-fare](/NavalWarfare_ProjectPage)
-<img src="images/NavalWarfare_screenshot.png?raw=true"/>
+<img src="images/NavalWarfare_screenshot.png?raw=true" width="500">
 
 ---
 [B.A.R.K and P.I.S.S](/BNP_ProjectPage)
-<img src="images/BARK_and_PISS_heading_slide.png?raw=true" width="200" height="100">
+<img src="images/BARK_and_PISS_heading_slide.png?raw=true" width="500">
 
 ---
 
