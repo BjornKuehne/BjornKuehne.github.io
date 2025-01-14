@@ -2,10 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Projects
+
+<h1 align="center"> Title </h1>
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 [FrogZen](/FrogZen_ProjectPage)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[![TestImageLink](images/FrogZen_Logo.png)](/FrogZen_ProjectPage)
 
 ---
 [Project 1 Title](/sample_page)
