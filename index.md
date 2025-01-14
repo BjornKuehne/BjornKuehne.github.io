@@ -4,11 +4,10 @@
 
 ### Projects
 
-<h1 align="center"> Title </h1>
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 [FrogZen](/FrogZen_ProjectPage)
+
 [![TestImageLink](images/FrogZen_Logo.png)](/FrogZen_ProjectPage)
 
 ---
@@ -24,6 +23,9 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+
+<h1 align="center"> Title </h1>
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 ### Category Name 2
 
