@@ -1,5 +1,7 @@
 # FrogZen
 
+---
+
 **Project description:** For my Bachelor’s thesis, I developed a gamified mindfulness mobile app, FrogZen, aimed at mitigating stress in healthcare workers. After completing development, I conducted a qualitative study involving 19 healthcare workers at a hospital in Glasgow, yielding substantially positive results.
 
 <h3 align="center"><a href="https://youtu.be/RrvcG253V2Y">Watch Demo Video here</a></h3>
@@ -9,6 +11,7 @@
   </a>
 </div>
 
+---
 ### Goals
 
 #### Scope and Approach
@@ -31,6 +34,8 @@ The app was designed to align with my expertise and intentionally avoided delive
   - To address the stigma among healthcare workers surrounding mental health support, the app avoids any clinical language and uses a light-hearted, informal tone.
   - The app should serve as an additional informal tool for stress relief, not as a substitute for formal therapy, as this would be difficult to achieve within the scope of my thesis.
 
+---
+
 ### Short Description of the App
 
 Core Features:
@@ -46,6 +51,8 @@ Core Features:
 
 Watch a [Demo Video here](https://youtu.be/RrvcG253V2Y).
 
+---
+
 ### Technical Aspects
 
 - **Platform**: Android mobile application
@@ -58,6 +65,8 @@ Watch a [Demo Video here](https://youtu.be/RrvcG253V2Y).
   - The captions are passed to OpenAI’s chat completion endpoint to formulate playful guesses.
   - Note: at the time of implementation, only GPT-3.5 was available. Future work could use GPT-4’s image processing capabilities to streamline the process.
 
+---
+
 ### My Contribution
 
 I completed the entire development process, including:
@@ -67,3 +76,5 @@ I completed the entire development process, including:
 - Planning and designing the app’s layout and UI
 - Developing the app from start to finish
 - Conducting a comprehensive evaluation of the app with end-users
+
+---
