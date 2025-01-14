@@ -7,6 +7,14 @@
 ---
 <h3 align="center"><a href="/FrogZen_ProjectPage">FrogZen</a></h3>
 
+<p align="center">
+<div style="text-align:center;">
+  <a href="/FrogZen_ProjectPage">
+    <img height="400" src="images/FrogZen_Logo.png" alt="FrogZen_Screenshot"">
+  </a>
+</div>
+</p>
+
 <div style="text-align:center;">
   <a href="/FrogZen_ProjectPage">
     <img height="400" src="images/FrogZen_Logo.png" alt="FrogZen_Screenshot"">
