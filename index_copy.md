@@ -36,6 +36,20 @@
 - [Project 5 Title](http://example.com/)
 
 ---
+<h1 align="center"> Title </h1>
+<img src="images/lumbar_lagoon_water_collection.png?raw=true" width="600">
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+<h1 align="center">[B.A.R.K and P.I.S.S](/BNP_ProjectPage)</h1>
+
+### Category Name 2
+
+- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
+
+---
 
 
 
