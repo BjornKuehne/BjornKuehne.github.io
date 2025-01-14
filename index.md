@@ -8,15 +8,16 @@
 
 [FrogZen](/FrogZen_ProjectPage)
 
-[![TestImageLink](images/FrogZen_Logo.png)](/FrogZen_ProjectPage)
+
+[<img src="images/FrogZen_Logo.png" alt="TestImageLink" width="500">](/FrogZen_ProjectPage)
 
 ---
 [LumbarLagoon](/LumbarLagoon_ProjectPage)
-<img src="images/lumbar_lagoon_water_collection.png?raw=true" width="500">
+<img src="images/lumbar_lagoon_water_collection.png?raw=true" width="600">
 
 ---
 [Wizzards At Wollmort](/WAW_ProjectPage)
-<img src="images/WAW_Thumbnail.png?raw=true" width="500">
+<img src="images/WaW_Thumbnail.png?raw=true" height="500">
 
 ---
 [Naval W-AR-fare](/NavalWarfare_ProjectPage)
@@ -24,7 +25,7 @@
 
 ---
 [B.A.R.K and P.I.S.S](/BNP_ProjectPage)
-<img src="images/BARK_and_PISS_heading_slide.png?raw=true" width="500">
+<img src="images/BARK_and_PISS_heading_slide.png?raw=true" width="600">
 
 ---
 
