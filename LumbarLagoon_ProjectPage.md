@@ -1,5 +1,7 @@
 # **LumbarLagoon**
 
+---
+
 **Project description:** As part of my Bachelor’s thesis, I developed LumbarLagoon, a prototype exercise-based serious game (exergame) designed to help prevent the onset of lower back pain in healthcare workers. The game incorporates specific exercises carried out within a narrative-driven context.
 
 <h3 align="center"><a href="https://youtu.be/DFLsVvO5Eu8">Watch Demo Video here</a></h3>
@@ -8,6 +10,8 @@
     <img width="600" src="images/lumbar_lagoon_water_delivery.png" alt="LumbarLagoon">
   </a>
 </div>
+
+---
 
 ### Goals
 
@@ -31,6 +35,8 @@ Interviews with a physiotherapist led to the inclusion of two seated exercises, 
 - Lateral flexion
 - Trunk rotation
 
+---
+
 ### Short Description of the Game
 
 Building on the thematic elements of FrogZen, LumbarLagoon’s narrative tasks the player with collecting and delivering water to Sir Hopsalot:
@@ -40,12 +46,16 @@ Building on the thematic elements of FrogZen, LumbarLagoon’s narrative tasks t
 
 Watch a [Demo Video here](https://youtu.be/DFLsVvO5Eu8).
 
+---
+
 ### Technical Aspects
 
 - **Platform**: Windows, paired with the Azure Kinect Device SDK
 - **Engine**: Unity3D with C#
 - **Motion tracking**:
   - The Azure Kinect was used to detect body postures and ensure exercises (lateral flexion and trunk rotation) were performed correctly and safely.
+
+---
 
 ### My Contribution
 
@@ -57,3 +67,5 @@ I completed the entire development process, including:
 - Planning and designing the game’s layout and UI
 - Developing the game from start to finish
 - Conducting a preliminary evaluation of the game through interviews with a physiotherapist
+
+---
