@@ -22,7 +22,8 @@
 <img src="images/NavalWarfare_screenshot.png?raw=true" width="500">
 
 ---
-<h1 align="center">[B.A.R.K and P.I.S.S](/BNP_ProjectPage)</h1>
+
+<h1 align="center"><a href="/BNP_ProjectPage">B.A.R.K and P.I.S.S</a></h1>
 <img src="images/BARK_and_PISS_heading_slide.png?raw=true" width="600">
 
 ---
@@ -30,6 +31,7 @@
 <h1 align="center"> Title </h1>
 <img src="images/lumbar_lagoon_water_collection.png?raw=true" width="600">
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+<h1 align="center">[B.A.R.K and P.I.S.S](/BNP_ProjectPage)</h1>
 
 ### Category Name 2
 
