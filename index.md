@@ -8,7 +8,7 @@
 <h3 align="center"><a href="/FrogZen_ProjectPage">FrogZen</a></h3>
 
 
-<div style="text-align:center;">
+<div style="align:center;">
   <a href="/FrogZen_ProjectPage">
     <img src="images/FrogZen_Logo.png" alt="FrogZen_Screenshot" style="height:500;">
   </a>
