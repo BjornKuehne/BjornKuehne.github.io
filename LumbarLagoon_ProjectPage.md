@@ -2,6 +2,13 @@
 
 **Project description:** As part of my Bachelor’s thesis, I developed LumbarLagoon, a prototype exercise-based serious game (exergame) designed to help prevent the onset of lower back pain in healthcare workers. The game incorporates specific exercises carried out within a narrative-driven context.
 
+<h3 align="center"><a href="https://youtu.be/DFLsVvO5Eu8">Watch Demo Video here</a></h3>
+<div style="display: flex; justify-content: center;">
+  <a href="https://youtu.be/DFLsVvO5Eu8">
+    <img width="600" src="images/lumbar_lagoon_water_delivery.png" alt="LumbarLagoon">
+  </a>
+</div>
+
 ### Goals
 
 #### Accessibility and Usability
