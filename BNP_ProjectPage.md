@@ -20,6 +20,7 @@ The game’s idea revolves around players marking areas in the real world, compe
 - **Competition:** Players can "steal" territories from others, fostering rivalry.
 - **Wolfpacks:** Players can form social groups to collectively claim larger territories.
 - **Turf Wars:** Players can engage in direct challenges to compete for dominance within a defined boundary by a specific deadline.
+
 ---
 ### Technical Aspects
 
