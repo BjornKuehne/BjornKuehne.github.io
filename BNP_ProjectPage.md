@@ -3,6 +3,10 @@
 
 **Project description:** During the 4th semester of my Bachelor’s degree, I collaborated with a team of four to develop a mobile social game for Android. The game divides the real world into a 1.5m by 1.5m grid, allowing players to virtually "mark their territory" in the real world by walking around, drawing inspiration from Reddit’s _r/place_ social experiment.
 
+<div style="display: flex; justify-content: center;">
+  <img height="500" src="images/BARK_and_PISS_map.png" alt="FrogZen_Screenshot">
+</div>
+
 ---
 ### Goals
 
