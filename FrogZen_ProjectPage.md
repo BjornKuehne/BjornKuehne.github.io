@@ -24,7 +24,7 @@ The app was designed to align with my expertise and intentionally avoided delive
   - To address the stigma among healthcare workers surrounding mental health support, the app avoids any clinical language and uses a light-hearted, informal tone.
   - The app should serve as an additional informal tool for stress relief, not as a substitute for formal therapy, as this would be difficult to achieve within the scope of my thesis.
 
-### SHort Description of the App
+### Short Description of the App
 
 Core Features:
 
