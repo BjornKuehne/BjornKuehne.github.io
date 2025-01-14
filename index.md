@@ -17,7 +17,7 @@
 
 ---
 [Wizzards At Wollmort](/WAW_ProjectPage)
-<img src="images/WaW_Thumbnail.png?raw=true" height="500">
+<img src="images/WaW_Thumbnail.png?raw=true" height="500" align="center">
 
 ---
 [Naval W-AR-fare](/NavalWarfare_ProjectPage)
