@@ -30,6 +30,7 @@ The game’s idea revolves around players marking areas in the real world, compe
   - **Firebase:** For storing user information and global game state, including which grid squares belong to which players.
   - **Google Maps API:** For real-time location tracking during gameplay.
   - **Google Plus Codes:** To divide the world into 1.5m by 1.5m grid squares using short location codes based on latitude and longitude.
+
 ---
 ### My Contribution
 
@@ -37,4 +38,5 @@ I was responsible for:
 - Implementing real-time location functionality using the Google Maps API
 - Developing the method to divide the real world into a grid using Google Plus Codes
 - Creating the feature that allows players to mark areas virtually, including the ability to leave messages for other players on their marked territories
+
 ---
