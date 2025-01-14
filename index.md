@@ -4,26 +4,25 @@
 
 ### Projects
 
-
-
-[FrogZen](/FrogZen_ProjectPage)
-[<img src="images/FrogZen_Logo.png" alt="TestImageLink" width="500">](/FrogZen_ProjectPage)
+---
+<h3 align="center"><a href="/FrogZen_ProjectPage">FrogZen</a></h3>
+[<img src="images/frogzen_frog_personification.png" alt="TestImageLink" height="500">](/FrogZen_ProjectPage)
 
 ---
-[LumbarLagoon](/LumbarLagoon_ProjectPage)
+<h3 align="center"><a href="/LumbarLagoon_ProjectPage">LumbarLagoon</a></h3>
 [<img src="images/lumbar_lagoon_water_collection.png" alt="LumbarLagoon" width="600">](/LumbarLagoon_ProjectPage)
 
 ---
-[Wizzards At Wollmort](/WAW_ProjectPage)
+<h3 align="center"><a href="/WAW_ProjectPage">Wizzards At Wollmort</a></h3>
 <img src="images/WaW_Thumbnail.png?raw=true" height="500" align="center">
 
 ---
-[Naval W-AR-fare](/NavalWarfare_ProjectPage)
+<h3 align="center"><a href="/NavalWarfare_ProjectPage">Naval W-AR-fare</a></h3>
 <img src="images/NavalWarfare_screenshot.png?raw=true" width="500">
 
 ---
 
-<h1 align="center"><a href="/BNP_ProjectPage">B.A.R.K and P.I.S.S</a></h1>
+<h3 align="center"><a href="/BNP_ProjectPage">B.A.R.K and P.I.S.S</a></h3>
 <img src="images/BARK_and_PISS_heading_slide.png?raw=true" width="600">
 
 ---
