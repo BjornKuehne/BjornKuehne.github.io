@@ -13,6 +13,12 @@
   </a>
 </div>
 
+<div style="display: flex; justify-content: center;">
+  <a href="/FrogZen_ProjectPage">
+    <img height="400" src="images/FrogZen_Logo.png" alt="FrogZen_Screenshot">
+  </a>
+</div>
+
 ---
 [<img src="images/frogzen_frog_personification.png" alt="TestImageLink" height="500" align="center">](/FrogZen_ProjectPage)
 
