@@ -11,15 +11,19 @@
 [![TestImageLink](images/FrogZen_Logo.png)](/FrogZen_ProjectPage)
 
 ---
-[Project 1 Title](/sample_page)
+[LumbarLagoon](/LumbarLagoon_ProjectPage)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Wizzards At Wollmort](/WAW_ProjectPage)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Naval W-AR-fare](/NavalWarfare_ProjectPage)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[B.A.R.K and P.I.S.S](/BNP_ProjectPage)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
