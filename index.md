@@ -14,7 +14,7 @@
 
 ---
 <h3 align="center"><a href="/WAW_ProjectPage">Wizzards At Wollmort</a></h3>
-<img src="images/WaW_Thumbnail.png?raw=true" height="500" align="center">
+[<img src="images/WaW_Thumbnail.png" alt="TestImageLink" height="500" align="center">](/WAW_ProjectPage)
 
 ---
 <h3 align="center"><a href="/NavalWarfare_ProjectPage">Naval W-AR-fare</a></h3>
