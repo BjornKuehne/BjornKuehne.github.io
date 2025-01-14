@@ -12,7 +12,7 @@
 
 ---
 [LumbarLagoon](/LumbarLagoon_ProjectPage)
-<img src="images/lumbar_lagoon_water_collection.png?raw=true"/>
+<img src="images/lumbar_lagoon_water_collection.png?raw=true" width="200" height="100">
 
 ---
 [Wizzards At Wollmort](/WAW_ProjectPage)
@@ -24,7 +24,7 @@
 
 ---
 [B.A.R.K and P.I.S.S](/BNP_ProjectPage)
-<img src="images/BARK_and_PISS_heading_slide.png?raw=true"/>
+<img src="images/BARK_and_PISS_heading_slide.png?raw=true" width="200" height="100">
 
 ---
 
