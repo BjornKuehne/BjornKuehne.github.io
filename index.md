@@ -7,28 +7,14 @@
 ---
 <h3 align="center"><a href="/FrogZen_ProjectPage">FrogZen</a></h3>
 
-<p align="center">
-<div style="text-align:center;">
-  <a href="/FrogZen_ProjectPage">
-    <img height="400" src="images/FrogZen_Logo.png" alt="FrogZen_Screenshot"">
-  </a>
-</div>
-</p>
-
-<div style="text-align:center;">
-  <a href="/FrogZen_ProjectPage">
-    <img height="400" src="images/FrogZen_Logo.png" alt="FrogZen_Screenshot"">
-  </a>
-</div>
-
 <div style="display: flex; justify-content: center;">
   <a href="/FrogZen_ProjectPage">
-    <img height="400" src="images/FrogZen_Logo.png" alt="FrogZen_Screenshot">
+    <img height="400" src="images/frogzen_frog_personification.png" alt="FrogZen_Screenshot">
   </a>
 </div>
 
 ---
-[<img src="images/frogzen_frog_personification.png" alt="TestImageLink" height="500" align="center">](/FrogZen_ProjectPage)
+
 
 <h3 align="center"><a href="/LumbarLagoon_ProjectPage">LumbarLagoon</a></h3>
 [<img src="images/lumbar_lagoon_water_collection.png" alt="LumbarLagoon" width="600" align="center">](/LumbarLagoon_ProjectPage)
