@@ -2,6 +2,13 @@
 
 **Project description:** For my Bachelor’s thesis, I developed a gamified mindfulness mobile app, FrogZen, aimed at mitigating stress in healthcare workers. After completing development, I conducted a qualitative study involving 19 healthcare workers at a hospital in Glasgow, yielding substantially positive results.
 
+<h3 align="center"><a href="https://youtu.be/RrvcG253V2Y">Watch Demo Video here</a></h3>
+<div style="display: flex; justify-content: center;">
+  <a href="https://youtu.be/RrvcG253V2Y">
+    <img height="500" src="images/frogzen_frog_personification_playbutton.png" alt="FrogZen">
+  </a>
+</div>
+
 ### Goals
 
 #### Scope and Approach
