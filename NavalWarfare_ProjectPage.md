@@ -1,6 +1,16 @@
 # **Naval W-AR-fare**
 
+---
+
 **Project description:** As part of a university course on Augmented Reality during my first Master’s semester, I developed _Naval W-AR-fare_, a ship battle minigame showcasing AR marker tracking.
+
+<h3 align="center"><a href="https://youtu.be/YqlVb5PIins">Watch Gameplay Demo Video here</a></h3>
+<div style="display: flex; justify-content: center;">
+  <a href="https://youtu.be/YqlVb5PIins">
+    <img width="600" src="images/AR_playbutton.png" alt="NavalWarfare_gameplay">
+  </a>
+</div>
+---
 
 ### Goals
 
@@ -8,6 +18,8 @@ The primary objective was to create a simple and engaging AR game using ArUco ma
 
 - The game should be multiplayer but function with a single device, meaning only one camera is used to track the markers.
 - It should be playable on any well-lit table, ensuring accessibility and convenience.
+
+---
 
 ### Short Description of the Game
 
@@ -21,6 +33,8 @@ The game uses 10 ArUco markers, each contributing through their position and ori
 
 Watch a [Gameplay Demo Video here](https://youtu.be/YqlVb5PIins).
 
+---
+
 ### Technical Aspects
 
 - **Platform:** Windows, using any capable webcam
@@ -29,6 +43,8 @@ Watch a [Gameplay Demo Video here](https://youtu.be/YqlVb5PIins).
   - Sub-pixel accurate edge detection
   - Marker ID assignment
 
+---
+
 ### My Contribution
 
 I was responsible for:
@@ -36,3 +52,5 @@ I was responsible for:
 - Implementing marker detection and functionality
 - Projecting 3D objects onto detected markers (in collaboration with a teammate)
 - Developing the underlying game logic
+
+---
