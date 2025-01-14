@@ -1,6 +1,16 @@
 # Wizzards At Wollmort
 
+---
+
 **Project description:** As part of a university project during my first Master’s semester, in a team of three we developed a VR game called Wizzards at Wollmort. The project focused on implementing novel 3D user interaction methods.
+
+<h3 align="center"><a href="https://youtu.be/D69Uwug74bE">Watch Game Trailer here</a></h3>
+<div style="display: flex; justify-content: center;">
+  <a href="https://youtu.be/D69Uwug74bE">
+    <img width="600" src="images/WAW_playbutton.png" alt="WaW_trailer">
+  </a>
+</div>
+---
 
 ### Goals
 
@@ -11,6 +21,8 @@ The objective was to create a game or application that:
   - **Selection Task:** A novel method for interacting with objects
   - **Manipulation Task:** A novel method for manipulating objects
   - **Wayfinding Aids:** Tools to assist navigation within a 3D world
+
+---
 
 ### Short Description of the Game
 
@@ -26,10 +38,14 @@ The player tracks their progress using a shopping list displayed on their wrist,
 
 Watch a [Game Trailer here](https://youtu.be/D69Uwug74bE).
 
+---
+
 ### Technical Aspects
 
 - **Platform:** Windows, using the Oculus Rift VR headset
 - **Engine:** Unity3D with C#
+
+---
 
 ### My Contribution
 
