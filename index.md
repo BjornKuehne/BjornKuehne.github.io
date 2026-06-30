@@ -47,6 +47,14 @@
 </div>
 
 ---
+<h3 align="center"><a href="/MoCap_ProjectPage">Bundle Adjustment / Structure from Motion</a></h3>
+<div style="display: flex; justify-content: center;">
+  <a href="/MoCap_ProjectPage">
+    <img width="600" src="images/Spacetopia_7.png" alt="Spacetopia_Screenshot">
+  </a>
+</div>
+
+---
 
 <h3 align="center"><a href="/BNP_ProjectPage">B.A.R.K and P.I.S.S</a></h3>
 <div style="display: flex; justify-content: center;">
