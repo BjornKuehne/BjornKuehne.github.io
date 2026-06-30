@@ -5,6 +5,14 @@
 ### Projects
 
 ---
+<h3 align="center"><a href="/Sanitopia_ProjectPage">Sanitopia</a></h3>
+<div style="display: flex; justify-content: center;">
+  <a href="/Sanitopia_ProjectPage">
+    <img width="600" src="images/Hightouch Minigame AR.png" alt="Sanitopia_Screenshot">
+  </a>
+</div>
+
+---
 <h3 align="center"><a href="/Spacetopia_ProjectPage">Spacetopia</a></h3>
 <div style="display: flex; justify-content: center;">
   <a href="/Spacetopia_ProjectPage">
