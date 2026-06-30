@@ -6,6 +6,18 @@
 
 ---
 
+<div style="display: flex; justify-content: center;">
+  <img width="600" src="images/Cleaning Minigame Regular.png" alt="Sanitopia AR Bathroom Cleaning Minigame">
+</div>
+
+---
+
+<div style="display: flex; justify-content: center;">
+  <img width="600" src="images/Example MC Panel.png" alt="Example Quiz Panel">
+</div>
+
+---
+
 ### Goals
 
 The objective was to create a serious game that:
@@ -43,6 +55,18 @@ The game consists of two main stages:
 Two versions of the game were developed: a regular mobile version and an AR version. In the AR version, the player’s real-world movement and device rotation are used to navigate the virtual patient room, creating a stronger sense of spatial presence.
 
 A pilot study with 8 medical students compared the two versions. Both versions received positive usability and acceptance scores, although the regular version performed better in usability and learning gain. The results suggested that AR can increase contextual realism, but also introduces interaction complexity that needs to be carefully managed.
+
+---
+
+<div style="display: flex; justify-content: center;">
+  <img width="600" src="images/Mopping Minigame Regular.png" alt="Sanitopia Mopping Minigame">
+</div>
+
+---
+
+<div style="display: flex; justify-content: center;">
+  <img width="600" src="images/Example Info Panel2.png" alt="Example Info Panel">
+</div>
 
 ---
 
