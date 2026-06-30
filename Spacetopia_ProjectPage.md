@@ -1,80 +1,88 @@
-# FrogZen
+# Spacetopia
 
 ---
 
-**Project description:** For my Bachelor’s thesis, I developed a gamified mindfulness mobile app, FrogZen, aimed at mitigating stress in healthcare workers. After completing development, I conducted a qualitative study involving 19 healthcare workers at a hospital in Glasgow, yielding substantially positive results.
+**Project description:** As part of a university game development project, in a team of two we developed *Spacetopia*, a 3D space-station management game. The project focused on modular ship construction, resource management, exploration, and defensive gameplay systems.
 
-<h3 align="center"><a href="https://youtu.be/RrvcG253V2Y">Watch Demo Video here</a></h3>
+<!-- Optional trailer section, if you have one later:
+<h3 align="center"><a href="YOUR_LINK_HERE">Watch Game Trailer here</a></h3>
 <div style="display: flex; justify-content: center;">
-  <a href="https://youtu.be/RrvcG253V2Y">
-    <img height="500" src="images/frogzen_frog_personification_playbutton.png" alt="FrogZen">
+  <a href="YOUR_LINK_HERE">
+    <img width="600" src="images/spacetopia_playbutton.png" alt="Spacetopia trailer">
   </a>
 </div>
+-->
 
 ---
+
 ### Goals
 
-#### Scope and Approach
+The objective was to create a game that:
 
-The app was designed to align with my expertise and intentionally avoided delivering structured or formal therapy. Instead, I adopted an informal approach utilizing concepts such as:
-
--	Mindfulness practice
--	Attention Restoration Theory
--	Distraction Therapy
-
-#### Design Goals
-
-- **Accessibility and Suitability**: Tailored to healthcare workers, the app was designed with the following considerations:
-  - **Ease of use**: The app had to be easy to pick up and easy to put down, accommodating the busy schedules of healthcare workers
-    - A mobile platform was chosen since over 90% of healthcare workers own smartphones
-    - Content was designed to be engaging but not demanding, enabling value through short interactions
-  - **Intuitive UI**: The user interface was kept simple and intuitive to eliminate learning curves.
-  - **Appropriate gamification**: Gamification was included to make the mindfulness techniques more engaging, without making it into a serious game, so as not to inadvertently present unwanted challenges during the workday.
-- **Informal tone**:
-  - To address the stigma among healthcare workers surrounding mental health support, the app avoids any clinical language and uses a light-hearted, informal tone.
-  - The app should serve as an additional informal tool for stress relief, not as a substitute for formal therapy, as this would be difficult to achieve within the scope of my thesis.
+- Let the player build and expand a modular spaceship in 3D space
+- Combined resource management with tower-defense-inspired threats
+- Used a node-based exploration system to travel between different space sectors
+- Created an open-ended experience fitting the theme **“Road to Nowhere”**
+- Encouraged strategic decisions through module placement, crew management, and resource scarcity
 
 ---
 
-### Short Description of the App
+### Short Description of the Game
 
-Core Features:
+In *Spacetopia*, the player takes on the role of a captain who wakes up from cryo-sleep after 150 years at the edge of the mapped galaxy. Starting with a damaged but functional spaceship, the player has to rebuild, expand, and manage the ship while travelling deeper into unknown space.
 
-1. **Mindful Frog Companion**
-    - Users interact with a chatbot, “Sir Hopsalot,” set in a tranquil natural environment.
-    - Sir Hopsalot engages users in playful, mindful conversations about their day, interests, or previous conversation topics.
-    - The frog persona minimises the risk of the uncanny valley effect and fosters familiarity.
-2. **Interactive Breathing Exercise**
-    - An interactive guided breathing exercise based on the box breathing technique helps reduce physiological stress symptoms.
-3. **Gamified Creative Expression Activity**
-    - Inspired by Google’s “Quick, Draw!” AI experiment, this activity allows users to draw while Sir Hopsalot playfully guesses their creation.
+The core of the ship is protected by the **Aegis Barrier**, a powerful shield that blocks incoming debris, attacks, and other hazards. To keep the ship alive, the player must manage resources such as energy, fuel, water, oxygen, materials, and crew.
 
-Watch a [Demo Video here](https://youtu.be/RrvcG253V2Y).
+The player expands the ship by placing modules onto a structural skeleton. These modules include living quarters, energy generators, turrets, radar systems, resource collectors, and other support systems. As the ship grows, the player can recruit different species, explore new sectors, gather resources, and defend against hostile raids.
+
+The main gameplay loop consists of:
+
+1. Travelling to a new space sector
+2. Gathering resources and managing the ship
+3. Building or upgrading modules
+4. Reacting to events such as raids, malfunctions, or discoveries
+5. Choosing the next destination on the space map
 
 ---
 
 ### Technical Aspects
 
-- **Platform**: Android mobile application
-- **Engine**: Unity3D with C#
-- **Chatbot Functionality**:
-  - Implemented using the OpenAI Unity package to make chat completion requests to the OpenAI API.
-  - Chat history and engineered prompts to maintain desired content and tone in responses from the OpenAI agent are stored locally on the device.
-- **Drawing Recognition**:
-  - Microsoft Azure’s Cognitive Services: Computer Vision API is used to generate captions for user drawn images
-  - The captions are passed to OpenAI’s chat completion endpoint to formulate playful guesses.
-  - Note: at the time of implementation, only GPT-3.5 was available. Future work could use GPT-4’s image processing capabilities to streamline the process.
+- **Platform:** Windows
+- **Engine:** Unity3D with C#
+- **Genre:** 3D management / building game with tower-defense and exploration elements
+- **Camera:** Third-person orbital camera for inspecting the ship from different angles
+- **Art Style:** Low-poly sci-fi style
+- **Core Systems:**
+  - Modular ship-building system
+  - Resource management system
+  - Crew and module operation logic
+  - Defensive turret system
+  - Enemy raid behaviour
+  - Node-based space exploration
+  - In-game UI for resources, build mode, travel, and fleet/scavenger status
 
 ---
 
 ### My Contribution
 
-I completed the entire development process, including:
+I was responsible for the following:
 
-- Defining the problem statement
-- Researching existing solutions and related work
-- Planning and designing the app’s layout and UI
-- Developing the app from start to finish
-- Conducting a comprehensive evaluation of the app with end-users
+- Designing and implementing parts of the modular ship-building system
+- Creating the logic for placing, validating, and expanding ship modules
+- Working on the graph/tree structure used to manage connected modules, turrets, and ship components
+- Contributing to the resource management system and how modules produce, consume, and interact with resources
+- Helping implement the main gameplay loop, including:
+  - Building and upgrading the ship
+  - Managing resources
+  - Preparing for travel between sectors
+  - Reacting to raids and crisis events
+- Contributing to the UI flow for resource display, build mode, and ship management
+- Helping polish the final prototype and adapt the scope after the team was reduced to two people
 
 ---
+
+### Reflection
+
+This project was especially interesting because it required several systems to work together: building, resources, exploration, UI, and defensive gameplay. One of the main challenges was keeping the modular ship structure flexible enough to expand while still being easy to manage in code.
+
+The building system and resource system were the strongest parts of the final prototype. Both were designed in a modular way, making it possible to add new module types, resources, and upgrades later.
