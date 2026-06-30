@@ -5,6 +5,7 @@
 ### Projects
 
 ---
+
 <h3 align="center"><a href="/Sanitopia_ProjectPage">Sanitopia</a></h3>
 <div style="display: flex; justify-content: center;">
   <a href="/Sanitopia_ProjectPage">
@@ -13,6 +14,7 @@
 </div>
 
 ---
+
 <h3 align="center"><a href="/Spacetopia_ProjectPage">Spacetopia</a></h3>
 <div style="display: flex; justify-content: center;">
   <a href="/Spacetopia_ProjectPage">
@@ -21,6 +23,7 @@
 </div>
 
 ---
+
 <h3 align="center"><a href="/FrogZen_ProjectPage">FrogZen</a></h3>
 <div style="display: flex; justify-content: center;">
   <a href="/FrogZen_ProjectPage">
