@@ -13,6 +13,18 @@
 </div>
 -->
 
+<div style="display: flex; justify-content: center;">
+  <img height="500" src="images/Spacetopia_2.png" alt="Spacetopia Cockpit View">
+</div>
+
+<div style="display: flex; justify-content: center;">
+  <img height="500" src="images/Spacetopia_3.png" alt="Spacetopia Solar System Selection">
+</div>
+
+<div style="display: flex; justify-content: center;">
+  <img height="500" src="images/Spacetopia_6.png" alt="Spacetopia Building Modules">
+</div>
+
 ---
 
 ### Goals
@@ -42,6 +54,20 @@ The main gameplay loop consists of:
 3. Building or upgrading modules
 4. Reacting to events such as raids, malfunctions, or discoveries
 5. Choosing the next destination on the space map
+
+
+<div style="display: flex; justify-content: center;">
+  <img height="500" src="images/Spacetopia_4.png" alt="Spacetopia Building Rocket Launcher">
+</div>
+
+<div style="display: flex; justify-content: center;">
+  <img height="500" src="images/Spacetopia_5.png" alt="Spacetopia Inquisition">
+</div>
+
+<div style="display: flex; justify-content: center;">
+  <img height="500" src="images/Spacetopia_1.png" alt="Spacetopia Raid ships leaving">
+</div>
+
 
 ---
 
@@ -80,9 +106,3 @@ I was responsible for the following:
 - Helping polish the final prototype and adapt the scope after the team was reduced to two people
 
 ---
-
-### Reflection
-
-This project was especially interesting because it required several systems to work together: building, resources, exploration, UI, and defensive gameplay. One of the main challenges was keeping the modular ship structure flexible enough to expand while still being easy to manage in code.
-
-The building system and resource system were the strongest parts of the final prototype. Both were designed in a modular way, making it possible to add new module types, resources, and upgrades later.
