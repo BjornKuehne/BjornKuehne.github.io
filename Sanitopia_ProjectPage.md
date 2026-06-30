@@ -65,7 +65,7 @@ A pilot study with 8 medical students compared the two versions. Both versions r
 ---
 
 <div style="display: flex; justify-content: center;">
-  <img width="600" src="images/Example Info Panel2.png" alt="Example Info Panel">
+  <img width="600" src="images/Example Info Panel 2.png" alt="Example Info Panel">
 </div>
 
 ---
