@@ -14,15 +14,15 @@
 -->
 
 <div style="display: flex; justify-content: center;">
-  <img height="500" src="images/Spacetopia_2.png" alt="Spacetopia Cockpit View">
+  <img width="600" src="images/Spacetopia_2.png" alt="Spacetopia Cockpit View">
 </div>
 
 <div style="display: flex; justify-content: center;">
-  <img height="500" src="images/Spacetopia_3.png" alt="Spacetopia Solar System Selection">
+  <img width="600" src="images/Spacetopia_3.png" alt="Spacetopia Solar System Selection">
 </div>
 
 <div style="display: flex; justify-content: center;">
-  <img height="500" src="images/Spacetopia_6.png" alt="Spacetopia Building Modules">
+  <img width="600" src="images/Spacetopia_6.png" alt="Spacetopia Building Modules">
 </div>
 
 ---
@@ -57,15 +57,15 @@ The main gameplay loop consists of:
 
 
 <div style="display: flex; justify-content: center;">
-  <img height="500" src="images/Spacetopia_4.png" alt="Spacetopia Building Rocket Launcher">
+  <img width="600" src="images/Spacetopia_4.png" alt="Spacetopia Building Rocket Launcher">
 </div>
 
 <div style="display: flex; justify-content: center;">
-  <img height="500" src="images/Spacetopia_5.png" alt="Spacetopia Inquisition">
+  <img width="600" src="images/Spacetopia_5.png" alt="Spacetopia Inquisition">
 </div>
 
 <div style="display: flex; justify-content: center;">
-  <img height="500" src="images/Spacetopia_1.png" alt="Spacetopia Raid ships leaving">
+  <img width="600" src="images/Spacetopia_1.png" alt="Spacetopia Raid ships leaving">
 </div>
 
 
