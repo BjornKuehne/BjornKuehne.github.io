@@ -6,6 +6,18 @@
 
 ---
 
+<div style="display: flex; justify-content: center;">
+  <img width="600" src="images/local_ba00.png" alt="SfM_Result">
+</div>
+
+---
+
+<div style="display: flex; justify-content: center;">
+  <img width="600" src="images/Our Pipeline.png" alt="SfM_Pipeline">
+</div>
+
+---
+
 ### Goals
 
 The objective was to implement and evaluate a reconstruction pipeline that:
