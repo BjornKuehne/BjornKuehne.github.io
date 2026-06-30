@@ -8,7 +8,7 @@
 <h3 align="center"><a href="/Spacetopia_ProjectPage">Spacetopia</a></h3>
 <div style="display: flex; justify-content: center;">
   <a href="/Spacetopia_ProjectPage">
-    <img height="500" src="images/Spacetopia_7.png" alt="Spacetopia_Screenshot">
+    <img width="600" src="images/Spacetopia_7.png" alt="Spacetopia_Screenshot">
   </a>
 </div>
 
