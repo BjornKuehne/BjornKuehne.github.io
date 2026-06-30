@@ -50,7 +50,7 @@
 <h3 align="center"><a href="/MoCap_ProjectPage">Bundle Adjustment / Structure from Motion</a></h3>
 <div style="display: flex; justify-content: center;">
   <a href="/MoCap_ProjectPage">
-    <img width="600" src="images/Spacetopia_7.png" alt="Spacetopia_Screenshot">
+    <img width="500" src="images/local_ba00.png" alt="BundleAdjustment_Result">
   </a>
 </div>
 
